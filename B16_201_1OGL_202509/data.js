@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-img_20250916_084636_00_2432",
-      "name": "IMG_20250916_084636_00_243(2)",
+      "id": "0-kitchen",
+      "name": "Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -32,8 +32,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "1-img_20250916_084658_00_2441",
-      "name": "IMG_20250916_084658_00_244(1)",
+      "id": "1-zimmer-1",
+      "name": "Zimmer 1",
       "levels": [
         {
           "tileSize": 256,
@@ -63,8 +63,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-img_20250916_084726_00_2451",
-      "name": "IMG_20250916_084726_00_245(1)",
+      "id": "2-zimmer-2",
+      "name": "Zimmer 2",
       "levels": [
         {
           "tileSize": 256,
@@ -94,8 +94,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-img_20250916_084752_00_2461",
-      "name": "IMG_20250916_084752_00_246(1)",
+      "id": "3-badezimmer",
+      "name": "Badezimmer",
       "levels": [
         {
           "tileSize": 256,
@@ -125,8 +125,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "4-img_20250916_084817_00_2471",
-      "name": "IMG_20250916_084817_00_247(1)",
+      "id": "4-schlafzimmer",
+      "name": "Schlafzimmer",
       "levels": [
         {
           "tileSize": 256,
@@ -156,8 +156,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-img_20250916_084849_00_2481",
-      "name": "IMG_20250916_084849_00_248(1)",
+      "id": "5-toilette",
+      "name": "Toilette",
       "levels": [
         {
           "tileSize": 256,
@@ -187,8 +187,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "6-img_20250916_085627_00_2492",
-      "name": "IMG_20250916_085627_00_249(2)",
+      "id": "6-wohnzimmer",
+      "name": "Wohnzimmer",
       "levels": [
         {
           "tileSize": 256,
@@ -218,8 +218,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "7-img_20250916_085651_00_2502",
-      "name": "IMG_20250916_085651_00_250(2)",
+      "id": "7-balkon",
+      "name": "Balkon",
       "levels": [
         {
           "tileSize": 256,
@@ -249,39 +249,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "8-img_20250916_085740_00_2511",
-      "name": "IMG_20250916_085740_00_251(1)",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1472,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "9-img_20250916_090755_00_2521",
-      "name": "IMG_20250916_090755_00_252(1)",
+      "id": "8-korridor",
+      "name": "Korridor",
       "levels": [
         {
           "tileSize": 256,
@@ -311,7 +280,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Buehlstrasse 16 1OGL ",
+  "name": "Buehlstrasse 1OGL ",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
